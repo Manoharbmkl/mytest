@@ -1,0 +1,9 @@
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\bin\Release\PressKyLicense.exe.config
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\bin\Release\PressKyLicense.exe
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\bin\Release\PressKyLicense.pdb
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.Form1.resources
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.Properties.Resources.resources
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.csproj.GenerateResource.Cache
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.exe
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.pdb
+D:\Manasa\PressKyLicenses\PressKyLicense\PressKyLicense\obj\x86\Release\PressKyLicense.csprojResolveAssemblyReference.cache
